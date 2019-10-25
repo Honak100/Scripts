@@ -14,6 +14,7 @@ if [ ! -d "$DIRECTORY/cleaninglog" ]; then
 fi
 touch $LOG
 
+
 echo "" >> $LOG
 echo "##################################################################" >> $LOG
 echo "Server Auto Dump Management Started...!!!" >> $LOG
