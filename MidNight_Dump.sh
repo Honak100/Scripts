@@ -82,3 +82,4 @@ echo "" >> $LOG
 echo "-----------------------Process completed--------------------------" >> $LOG
 echo "" >> $LOG
 echo "exit"
+
